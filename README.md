@@ -4,21 +4,21 @@
  We are goingto:
  1. Treat the Nulls
  2. Treat the duplicates
- 3.Populate missing rows
- 4.Drop unneeded columns
- 5.Split columns
+ 3. Populate missing rows
+ 4. Drop unneeded columns
+ 5. Split columns
 
 Questions answered:
-  1.Which has the largest percentage movies or tv shows?
-  2.Which is the Most common listed in type?
-  3.Which is dominant in release throughout the year movies or tv shows?
-  4.The ratio or movies and tv shows produced by each country
-  5.Top 10 Directors
-  6.Which month has the most release added?
-  7.Release of movies and tv shows acorss the months
-  8.Rating vs no of content rated as them
-  9.Top 10 genre in movies
-  10.Top 10 tv shows genre
-  11.Oldest content by release year
-  12.Year wise content release count.
+  1. Which has the largest percentage movies or tv shows?
+  2. Which is the Most common listed in type?
+  3. Which is dominant in release throughout the year movies or tv shows?
+  4. The ratio or movies and tv shows produced by each country
+  5. Top 10 Directors
+  6. Which month has the most release added?
+  7. Release of movies and tv shows acorss the months
+  8. Rating vs no of content rated as them
+  9. Top 10 genre in movies
+  10. Top 10 tv shows genre
+  11. Oldest content by release year
+  12. Year wise content release count.
   
